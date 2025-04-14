@@ -1,3 +1,15 @@
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: KUNTA NANDITHA
+
+INTERN ID: CT08SMQ
+
+DOMAIN: DATA SCIENCE
+
+DURATION: 6 WEEKS
+
+MENTOR: NEELA SANTOSH
+
 # Stock-Market-Trend-Prediction
 
 A full end-to-end data science project that predicts stock price trends using LSTM deep learning models and Flask for web deployment.
