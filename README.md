@@ -23,4 +23,5 @@ This project uses historical stock market data to predict the next day's closing
 
 ## 📂 Project Structure
 . ├── stock-price-predictor/ │ ├── app.py │ ├── model_lstm.py │ ├── templates/ │ │ └── index.html │ ├── lstm_model.h5 │ ├── scaler.save │ └── static/
-
+## output
+![Image](https://github.com/user-attachments/assets/5ef80be1-533a-43ce-85a2-888e5397232f)
