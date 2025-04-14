@@ -5,7 +5,7 @@ A full end-to-end data science project that predicts stock price trends using LS
 ## 🔍 Overview
 This project uses historical stock market data to predict the next day's closing price using an LSTM model. Users can input a stock ticker (e.g., AAPL, TSLA, GOOGL), and the app returns a predicted price with a visual chart.
 
-## 📦 Tech Stack
+## 📦 Tools Used
 - Python
 - Flask
 - TensorFlow / Keras
