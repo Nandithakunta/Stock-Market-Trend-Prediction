@@ -14,10 +14,10 @@ MENTOR: NEELA SANTOSH
 
 A full end-to-end data science project that predicts stock price trends using LSTM deep learning models and Flask for web deployment.
 
-## 🔍 Overview
+## Overview
 This project uses historical stock market data to predict the next day's closing price using an LSTM model. Users can input a stock ticker (e.g., AAPL, TSLA, GOOGL), and the app returns a predicted price with a visual chart.
 
-## 📦 Tools Used
+## Tools Used
 - Python
 - Flask
 - TensorFlow / Keras
@@ -26,14 +26,14 @@ This project uses historical stock market data to predict the next day's closing
 - Bootstrap (Frontend)
 - Matplotlib
 
-## 🚀 Features
+## Features
 - Pulls real-time stock data from Yahoo Finance
 - Preprocesses and scales data for LSTM model
 - Trains model (if not already trained)
 - Predicts next-day price
 - Returns prediction and price chart on a stylish web app
 
-## 📂 Project Structure
+## Project Structure
 . ├── stock-price-predictor/ │ ├── app.py │ ├── model_lstm.py │ ├── templates/ │ │ └── index.html │ ├── lstm_model.h5 │ ├── scaler.save │ └── static/
 ## output
 ![Image](https://github.com/user-attachments/assets/5ef80be1-533a-43ce-85a2-888e5397232f)
