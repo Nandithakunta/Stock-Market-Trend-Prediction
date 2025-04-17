@@ -10,7 +10,7 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-# Stock-Market-Trend-Prediction
+# Stock-Market-Trend-Prediction (Task 3)
 
 A full end-to-end data science project that predicts stock price trends using LSTM deep learning models and Flask for web deployment.
 
