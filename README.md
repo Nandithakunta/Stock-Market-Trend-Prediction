@@ -9,12 +9,15 @@ DOMAIN: DATA SCIENCE
 DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
+
 ---
+
 # Stock-Market-Trend-Prediction (Task 3)
 
 A full end-to-end data science project that predicts stock price trends using LSTM deep learning models and Flask for web deployment.
 ---
 ## Overview
+
 This project uses historical stock market data to predict the next day's closing price using an LSTM model. Users can input a stock ticker (e.g., AAPL, TSLA, GOOGL), and the app returns a predicted price with a visual chart.
 ---
 ## Tools Used
